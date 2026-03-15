@@ -2,7 +2,7 @@
 <h3 align="center">Un apasionado desarrollador frontend de Venezuela</h3>
 
 <h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
+<p align="left">jfabregamogollon@gmail.com
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
